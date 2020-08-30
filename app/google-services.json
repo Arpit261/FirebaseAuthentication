@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "782395722256",
+    "firebase_url": "https://fir-d5674.firebaseio.com",
+    "project_id": "fir-d5674",
+    "storage_bucket": "fir-d5674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782395722256:android:05d628db82cd54ba049895",
+        "android_client_info": {
+          "package_name": "com.arpit.firebasesignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782395722256-iab31gca5vn3i9oin82nun4mfosv30h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDupXMr55tc_LBXW6i8WmISmf1v6SdyHho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782395722256-iab31gca5vn3i9oin82nun4mfosv30h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
